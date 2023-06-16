@@ -1,0 +1,185 @@
+{
+    "users":[
+        {
+            "name":"Life Of Pi",
+            "author":"Yann Martel",
+            "Category":"Action & Adventure",
+            "publish_date":"12-04-1990",
+           
+            "Available":"4",
+            "Price":"Rs.500"
+
+            
+
+        },
+        {
+            "name":"The Three Musketeers",
+            "author":"Alenxander Dumas",
+            "Category":"Action & Adventure",
+            "publish_date":"11-12-2000",
+            
+            "Available":"1",
+            "Price":"Rs.200"
+
+            
+
+        },
+        {
+            "name":"The call of Wild",
+            "author":"Jack London",
+            "Category":"Action & Adventure",
+            "publish_date":"10-09-2002",
+           
+            "Available":"10",
+            "Price":"Rs.250"
+
+            
+
+        },
+        {
+            "name":"To Kill A Mocking bird",
+            "author":"Harper Lee",
+            "Category":"Classic",
+            "publish_date":"11-12-2000",
+         
+            "Available":"2",
+            "Price":"Rs.450"
+
+            
+
+        },
+        {
+            "name":"Little Wowen",
+            "author":"Louisa May Plat",
+            "Category":"Classic",
+            "publish_date":"03-04-1998",
+           
+            "Available":"1",
+            "Price":"Rs.200"
+
+            
+
+        },
+        {
+            "name":"Beloved",
+            "author":"Toni Morrison",
+            "Category":"Classis",
+            "publish_date":"12-04-1996",
+           
+            "Available":"15",
+            "Price":"Rs.690"
+
+            
+
+        },
+        {
+            "name":"Watchmen",
+            "author":"Alan Moore",
+            "Category":"Comic",
+            "publish_date":"20-04-1994",
+           
+            "Available":"4",
+            "Price":"Rs.400"
+
+            
+
+        },
+        {
+            "name":"The Walking dead",
+            "author":"Robert Kiruman",
+            "Category":"Comic",
+            "publish_date":"12-04-2000",
+           
+            "Available":"1",
+            "Price":"Rs.200"
+
+            
+
+        },
+        {
+            "name":"The boy ,the mole,the fox and the horse",
+            "author":"Charlie Mockey",
+            "Category":"Comic",
+            "publish_date":"12-04-2023",
+            
+            "Available":"1",
+            "Price":"Rs.200"
+
+            
+
+        },
+        {
+            "name":"The night fire",
+            "author":"Michael Connelly",
+            "Category":"Detective",
+            "publish_date":"12-04-2023",
+           
+            "Available":"14",
+            "Price":"Rs.360"
+
+            
+
+        },
+        {
+            "name":"The Adventure of Sherlock Holmes",
+            "author":"Arthur Conan Doyle",
+            "Category":"Detective",
+            "publish_date":"17-04-1990",
+         
+            "Available":"12",
+            "Price":"Rs.500"
+
+            
+
+        },
+       
+        {
+            "name":"Memories of a Geisha",
+            "author":"Arthur Golden",
+            "Category":"Historical Fiction",
+            "publish_date":"12-04-2023",
+            
+            "Available":"1",
+            "Price":"Rs.200"
+
+            
+
+        },
+        {
+            "name":"The Help",
+            "author":"Kathryn Stockett",
+            "Category":"Historical Fiction",
+            "publish_date":"23-09-2005",
+          
+            "Available":"1",
+            "Price":"Rs.200"
+
+            
+
+        },
+        {
+            "name":"Circle",
+            "author":"Madeling Miller",
+            "Category":"Fantacy",
+            "publish_date":"13-04-2005",
+           
+            "Available":"14",
+            "Price":"Rs.670"
+
+            
+
+        },
+        {
+            "name":"The Water Dancer",
+            "author":"Ta-Nehisi ",
+            "Category":"Fantacy",
+            "publish_date":"15-04-2002",
+           
+            "Available":"15",
+            "Price":"Rs.700"
+
+            
+
+        }
+    ]
+}
